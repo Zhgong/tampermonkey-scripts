@@ -7,7 +7,7 @@
 // @match        https://www.duden.de/rechtschreibung/selbststaendig
 // @grant        GM_openInTab
 // @run-at       context-menu
-// @updateURL    
+// @updateURL    https://github.com/Zhgong/tampermonkey-scripts/raw/master/search-with-deepl.user.js
 // ==/UserScript==
 
 (function() {
