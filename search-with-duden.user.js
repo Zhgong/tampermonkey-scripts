@@ -8,6 +8,7 @@
 // @grant        GM_openInTab
 // @run-at       context-menu
 // @updateURL    https://github.com/Zhgong/tampermonkey-scripts/raw/master/search-with-duden.user.js
+// @downloadURL  https://github.com/Zhgong/tampermonkey-scripts/raw/master/search-with-duden.user.js
 // ==/UserScript==
 
 (function() {
