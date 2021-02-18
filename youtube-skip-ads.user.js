@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         YouTube - Ad Skip
-// @version      0.1
+// @version      0.2
 // @description  Skips and removes ads on YouTube automatically
 // @author       zhou
 // @match        https://www.youtube.com/*
