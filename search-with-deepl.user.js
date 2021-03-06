@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         Search with Deepl
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.3
 // @description  try to take over the world!
 // @author       You
-// @match        https://www.duden.de/rechtschreibung/selbststaendig
+// @include      *
 // @grant        GM_openInTab
 // @run-at       context-menu
 // @updateURL    https://github.com/Zhgong/tampermonkey-scripts/raw/master/search-with-deepl.user.js
