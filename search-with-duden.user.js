@@ -1,14 +1,13 @@
 // ==UserScript==
 // @name         Search with Duden
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  try to take over the world!
 // @author       You
-// @match        https://www.duden.de/rechtschreibung/selbststaendig
+// @include      *
 // @grant        GM_openInTab
 // @run-at       context-menu
-// @updateURL    https://github.com/Zhgong/tampermonkey-scripts/raw/master/search-with-duden.user.js
-// @downloadURL  https://github.com/Zhgong/tampermonkey-scripts/raw/master/search-with-duden.user.js
+// @updateURL    https://github.com/Zhgong/tampermonkey-scripts/raw/master/search-with-duden.js
 // ==/UserScript==
 
 (function() {
